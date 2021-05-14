@@ -1,0 +1,30 @@
+#ot{
+margin-left:14% ;
+margin-right:14%;
+}
+#menu{
+	position:fixed;
+	right:86%;
+	left:0%;
+	bottom:200px;
+	top:108px;
+	
+	
+  
+}
+
+
+body{
+
+color:black;
+font-size:20;
+}
+h1,h3{
+	color:red;
+}
+#fon{
+	background:red;
+}
+a{
+	color:black;
+}
